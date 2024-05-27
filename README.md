@@ -1,6 +1,10 @@
 # goura_magasin
 ## Système de Gestion de Stock & Ventes
 
+## Schèma Base de données (MySQL):
+![Alt_text](Shema_Base_de_Donnee)
+
+
 ### Ce Système a été developpé à la base de:
 - Asynchronous Javascript et XML (Ajax) :
 J'ai choisi d'utiliser Ajax pour pouvoir accélérer les réponses des pages Web en échangeant de petites quantités d'informations avec le serveur Web en coulisse. En outre, cela évite de devoir recharger l'ensemble de la page web chaque fois qu'une nouvelle information doit être consultée sur le serveur.
