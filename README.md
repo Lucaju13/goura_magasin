@@ -27,6 +27,10 @@ D'une manière générale, le DOM PDF est une classe PHP capable de convertir un
 - Gestion des clients
 - Vente
 
+## Pour un premier enregistrement:
+- User: admin & mdp: admin12345
+
+
 ### Le système comporte différents accès et fonctionnalités:
 ![Alt_text](fonc.png)
 
