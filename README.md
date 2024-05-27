@@ -31,6 +31,12 @@ D'une manière générale, le DOM PDF est une classe PHP capable de convertir un
 ![Alt_text](fonc.png)
 
 ### À propos de l'hébergement :
-Notre site web est hébergé par la plateforme Heroku et après l'hébergement le script pour enregistrer le client, générer des tickets et des rapports PDF a cessé de fonctionner (nous avons essayé de le résoudre, en recréant l'accès à distance par la plateforme et cela donne la même chose, mais dans notre serveur local les scripts fonctionnent).
+Notre site web est hébergé par la plateforme Heroku et après l'hébergement le script pour enregistrer le client, générer des tickets et des rapports PDF a cessé de fonctionner (je essaye de le résoudre, en recréant l'accès à distance par la plateforme et cela donne la même chose, mais dans le serveur local les scripts fonctionnent).
 
 [Lien pour y'acceder](https://goura-magasin-9669892ff581.herokuapp.com)
+
+## Points à amelliorer:
+- Ne posséde pas de barre de recherche.
+- Ne posséde pas de panier où l’utilisateur ajoute lui-même ses produits.
+- En tant qu’Admin ou gestionnaire lorsqu’on ajoute un produit dans le panier il s’ajoute un par un même si c’est le même produit.
+- Ne posséde pas d’une page spécial pour chaque produit
