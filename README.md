@@ -5,7 +5,7 @@ Ce système a été réalisé sur la base de PHP, Javascript, MySQL et CSS.
 J'ai opté pour l'utilisation de PHP orienté objet, de cette façon, chaque table qui compose la base de données possède une classe PHP, ce qui facilite les appels de méthodes et l'organisation du code.
 Organisation du dossier GOURA MAGASIN:
 
-[x] [1. Base de données : il contient les requêtes et de données pour exécuter.]
+[x][1. Base de données : il contient les requêtes et de données pour exécuter.]
 
 [x] [2. Classes : Il contient toutes les classes de chaque module avec les respectives méthodes.]
 
