@@ -2,7 +2,7 @@
 ## Système de Gestion de Stock & Ventes
 
 ## Schèma Base de données (MySQL):
-![Alt_text](Shema_Base_de_Donnee)
+![Alt_text](Shema_Base_de_Donnee.png)
 
 
 ### Ce Système a été developpé à la base de:
