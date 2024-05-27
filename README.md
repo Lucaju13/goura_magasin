@@ -1,4 +1,4 @@
-# goura_magasin
+# Goura_Magasin
 ## Système de Gestion de Stock & Ventes
 
 ### Schéma Base de données (MySQL):
