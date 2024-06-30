@@ -64,6 +64,8 @@ Notre site web est hébergé par la plateforme Heroku et après l'hébergement l
 
 [Lien pour y'acceder](https://goura-magasin-9669892ff581.herokuapp.com)
 
+[Document Utilisateur](NAVIGATION_DU_SITE.pdf)
+
 ## Points à amelliorer:
 - Ne posséde pas de barre de recherche.
 - Ne posséde pas de panier où l’utilisateur ajoute lui-même ses produits.
